@@ -1,0 +1,15 @@
+/.vs
+/Intermediate
+/Saved
+/Plugins
+*.sln
+*_BuiltData.uasset
+/Content/ExternalContent
+/Content/ExternalContents
+/Content/Developers
+/Content/Collections
+/Binaries
+/Pack
+/Content/PaperAssets
+/Content/Stylized_Egypt
+/Content/Sounds
